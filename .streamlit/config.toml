@@ -1,1 +1,11 @@
 # config.toml
+[theme]
+base = "dark"
+primaryColor = "#00e5b0"
+backgroundColor = "#0b1120"
+secondaryBackgroundColor = "#121a2b"
+textColor = "#dbe5f2"
+font = "sans serif"
+
+[server]
+runOnSave = true
